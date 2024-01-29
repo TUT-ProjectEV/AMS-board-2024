@@ -508,6 +508,23 @@
     )
   )
 
+  (sheet (at 190.5 25.4) (size 25.4 43.18) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6c88c007-deae-4ed6-a37c-9d5c4c750b8f)
+    (property "Sheetname" "MCU" (at 190.5 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU.kicad_sch" (at 190.5 69.1646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AMS-board-2024"
+        (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261" (page "10"))
+      )
+    )
+  )
+
   (sheet (at 139.7 25.4) (size 25.4 43.18) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))

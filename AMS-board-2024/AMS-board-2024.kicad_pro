@@ -503,6 +503,14 @@
     [
       "89a445cf-4dca-4c05-9556-2d66db3a69e6",
       "Battery Module Monitor 8"
+    ],
+    [
+      "6c88c007-deae-4ed6-a37c-9d5c4c750b8f",
+      "MCU"
+    ],
+    [
+      "e78e9a17-6dfa-4790-b63f-83a7a3017fa5",
+      "SPI 2-wire Interface"
     ]
   ],
   "text_variables": {}
