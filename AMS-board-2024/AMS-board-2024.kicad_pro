@@ -511,6 +511,10 @@
     [
       "e78e9a17-6dfa-4790-b63f-83a7a3017fa5",
       "SPI 2-wire Interface"
+    ],
+    [
+      "bdebf2e5-9545-4c56-a02d-4de56fc97c11",
+      "CAN Transceiver"
     ]
   ],
   "text_variables": {}

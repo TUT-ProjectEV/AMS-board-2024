@@ -1,4 +1,4 @@
-22445177556083696
+22448590546030629
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81711,6 +81711,13 @@ LQFP QFP
 64
 64
 ProjectEV
+Package_MSOP-16_3x4.039mm_P0.5mm_LTC6820
+MSOP, 16 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-msop/05081669_A_MS16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
+0
+16
+16
+ProjectEV
 Package_SOIC-8_3.9x4.9mm_P1.27mm
 SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOIC SO
@@ -81719,6 +81726,13 @@ SOIC SO
 8
 ProjectEV
 Package_SOT-23_BSS308PE
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+ProjectEV
+Package_SOT-23_NUP2105L
 SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
 0
