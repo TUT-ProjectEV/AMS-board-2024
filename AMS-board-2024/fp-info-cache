@@ -1,4 +1,4 @@
-22448590546030629
+22453710714378578
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81655,6 +81655,13 @@ CommonModeChoke_DLW43SH101
 4
 4
 ProjectEV
+Crystal_ABM8W
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+ProjectEV
 D_CUHS20S30
 Diode MicroSMP (DO-219AD), large-pad cathode, https://www.vishay.com/docs/89020/mss1p3l.pdf
 Diode MicroSMP (DO-219AD)
@@ -81780,6 +81787,20 @@ Resonator_CSTNE16M0V530000R0
 0
 3
 3
+ProjectEV
+SW_DS04-254-01BK-SMT
+
+
+0
+2
+2
+ProjectEV
+SW_PTS636-43-SMTR
+
+
+0
+2
+2
 ProjectEV
 USB_C_Receptacle_5077CR-16-SMC2-BK-TR
 USB 2.0 Type C Receptacle, GCT, 16P, top mounted, horizontal, 5A: https://gct.co/files/drawings/usb4105.pdf
