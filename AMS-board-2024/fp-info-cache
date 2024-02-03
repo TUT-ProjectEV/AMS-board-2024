@@ -1,4 +1,4 @@
-22457124377202018
+22463952122949786
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81676,6 +81676,13 @@ SOD-123
 2
 2
 ProjectEV
+D_SOD-523_BZX584CxVx-AU
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
+0
+2
+2
+ProjectEV
 Identifier_1pin
 
 
@@ -81738,6 +81745,27 @@ SOIC SO
 0
 16
 16
+ProjectEV
+Package_SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+ProjectEV
+Package_SOT-23-5_MCP6001
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+ProjectEV
+Package_SOT-23_2N7002K-AU
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
 ProjectEV
 Package_SOT-23_BSS308PE
 SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
