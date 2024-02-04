@@ -1,4 +1,4 @@
-22463952122949786
+22477608295100182
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81669,7 +81669,21 @@ Diode MicroSMP (DO-219AD)
 2
 2
 ProjectEV
+D_SMB_SMBJxxxCAQ
+
+
+0
+2
+2
+ProjectEV
 D_SOD-123_BAT46W-7-F
+SOD-123
+SOD-123
+0
+2
+2
+ProjectEV
+D_SOD-123_SMSZ4xxx
 SOD-123
 SOD-123
 0
@@ -81689,6 +81703,13 @@ Identifier_1pin
 0
 0
 0
+ProjectEV
+L_EXLA1V06
+
+
+0
+2
+2
 ProjectEV
 L_MGAH0603
 https://www.laird.com/sites/default/files/2022-01/MGAH0603%20Series.pdf
@@ -81732,6 +81753,13 @@ MSOP SO
 16
 16
 ProjectEV
+Package_PowerDI3333-8_DMT6007LFGQ
+Diodes Incorporated PowerDI3333-8, Plastic Dual Flat No Lead Package, 3.3x3.3x0.8mm Body, https://www.diodes.com/assets/Package-Files/PowerDI3333-8.pdf
+PowerDI 0.65
+0
+13
+5
+ProjectEV
 Package_SOIC-8_3.9x4.9mm_P1.27mm
 SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOIC SO
@@ -81745,6 +81773,13 @@ SOIC SO
 0
 16
 16
+ProjectEV
+Package_SOP-4_4.57x4.92mm_P2.54mm_VOMA617A
+SOP, 4 Pin (http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+4
+4
 ProjectEV
 Package_SOT-23
 SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -81781,6 +81816,13 @@ SOT TO_SOT_SMD
 3
 3
 ProjectEV
+Package_SOT-26_AP74700Q
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+ProjectEV
 Package_SOT-89-3
 SOT-89-3, http://ww1.microchip.com/downloads/en/DeviceDoc/3L_SOT-89_MB_C04-029C.pdf
 SOT-89-3
@@ -81815,6 +81857,20 @@ QFP 0.8
 0
 32
 32
+ProjectEV
+Package_VQFN-HR-12_RNX0012C_2x3mm_LMR33620AP-Q1
+
+
+0
+14
+12
+ProjectEV
+Package_VSSOP-10_3x3mm_P0.5mm_LM5060
+VSSOP, 10 Pin (http://www.ti.com/lit/ds/symlink/ads1115.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+VSSOP SO
+0
+10
+10
 ProjectEV
 Resonator_CSTCE16M0V53-R0
 CSTCE16M0V53-R0-1
