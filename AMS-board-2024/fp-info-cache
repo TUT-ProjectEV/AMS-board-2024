@@ -1,4 +1,4 @@
-22477608295100182
+22484436694022111
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81669,7 +81669,21 @@ Diode MicroSMP (DO-219AD)
 2
 2
 ProjectEV
+D_DO-214AC_SKxx
+
+
+0
+2
+2
+ProjectEV
 D_SMB_SMBJxxxCAQ
+
+
+0
+2
+2
+ProjectEV
+D_SOD-123HE_PZ1AHxxxB-AU
 
 
 0
@@ -81774,6 +81788,13 @@ SOIC SO
 16
 16
 ProjectEV
+Package_SOIC-16W_7.5x10.3mm_P1.27mm_UCC12040
+SOIC, 16 Pin (JEDEC MS-013AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/rw_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+16
+16
+ProjectEV
 Package_SOP-4_4.57x4.92mm_P2.54mm_VOMA617A
 SOP, 4 Pin (http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOP SO
@@ -81871,6 +81892,13 @@ VSSOP SO
 0
 10
 10
+ProjectEV
+Package_WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm_LM5181
+
+
+0
+9
+9
 ProjectEV
 Resonator_CSTCE16M0V53-R0
 CSTCE16M0V53-R0-1
