@@ -3543,10 +3543,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cab85cab-0f50-4e43-9940-09fc365fd501)
   )
-  (text "レギュレーション上必要なサーミスタは 3 x 8 = 24 本.\nGPIO1~3 をサーミスタに使用し、\nGPIO4, 5 は別用途で使用してもOK.\nGPIO4, 5 のプルアップは必要に応じて実装."
+  (text "レギュレーション上必要なサーミスタは 96 CELL x 25 % = 24 本.\nGPIO1~3 をサーミスタに使用し、\nGPIO4, 5 は別用途で使用してもOK.\nGPIO4, 5 のプルアップは必要に応じて実装."
     (at 469.9 283.21 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid ea1eaef9-d501-40f8-87d9-b77b6ea8aebf)
+    (uuid d1f3fe4a-5124-4830-a59c-c9c7bf66283c)
   )
   (text "6332" (at 129.54 195.58 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

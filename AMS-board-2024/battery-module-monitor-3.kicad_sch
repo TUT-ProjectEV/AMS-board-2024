@@ -3431,6 +3431,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 01427a1d-3356-49b6-8baa-df92ca4dc9ef)
   )
+  (text "レギュレーション上必要なサーミスタは 96 CELL x 25 % = 24 本.\nGPIO1~3 をサーミスタに使用し、\nGPIO4, 5 は別用途で使用してもOK.\nGPIO4, 5 のプルアップは必要に応じて実装."
+    (at 469.9 283.21 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1753a86e-7be7-47fa-8d6f-6a87554ec5c6)
+  )
   (text "2012\n100 V" (at 156.21 280.67 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2792a78d-3a54-4a3d-9685-e23d3180b99d)
@@ -3466,11 +3471,6 @@
   (text "6332" (at 129.54 171.45 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 74f00480-481e-452d-9db5-5069c5bc48ae)
-  )
-  (text "レギュレーション上必要なサーミスタは 3 x 8 = 24 本.\nGPIO1~3 をサーミスタに使用し、\nGPIO4, 5 は別用途で使用してもOK.\nGPIO4, 5 のプルアップは必要に応じて実装."
-    (at 469.9 283.21 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 7baee6c6-d552-443a-a267-2e50efc76a4f)
   )
   (text "2012\n100 V" (at 156.21 304.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
