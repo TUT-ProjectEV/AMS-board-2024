@@ -1,4 +1,4 @@
-22489558828035594
+22494681450937196
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81823,6 +81823,13 @@ SOT TO_SOT_SMD
 5
 5
 ProjectEV
+Package_SOT-23-6_TMP101-Q1
+
+
+0
+6
+6
+ProjectEV
 Package_SOT-23_2N7002K-AU
 SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
@@ -81893,6 +81900,13 @@ QFP 0.8
 32
 32
 ProjectEV
+Package_TSOP-5_NV24C16SNVLT3G
+
+
+0
+5
+5
+ProjectEV
 Package_VQFN-HR-12_RNX0012C_2x3mm_LMR33620AP-Q1
 
 
@@ -81948,6 +81962,13 @@ SW_PTS636-43-SMTR
 0
 2
 2
+ProjectEV
+Transformer_CEEH96B
+
+
+0
+4
+4
 ProjectEV
 USB_C_Receptacle_5077CR-16-SMC2-BK-TR
 USB 2.0 Type C Receptacle, GCT, 16P, top mounted, horizontal, 5A: https://gct.co/files/drawings/usb4105.pdf
