@@ -1,4 +1,4 @@
-22508342481968474
+22510050133710154
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -82025,6 +82025,13 @@ Transformer_CEEH96B
 0
 4
 4
+ProjectEV
+Transformer_YA8779-BLD
+
+
+0
+0
+0
 ProjectEV
 USB_C_Receptacle_5077CR-16-SMC2-BK-TR
 USB 2.0 Type C Receptacle, GCT, 16P, top mounted, horizontal, 5A: https://gct.co/files/drawings/usb4105.pdf
