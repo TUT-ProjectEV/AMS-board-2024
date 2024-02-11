@@ -511,6 +511,10 @@
     [
       "e5bb215a-09a7-47e9-9b6f-2807241074ff",
       "Power"
+    ],
+    [
+      "2a544a11-bc7a-441e-95e4-66a5a426d897",
+      "Battery Stack Monitor"
     ]
   ],
   "text_variables": {}

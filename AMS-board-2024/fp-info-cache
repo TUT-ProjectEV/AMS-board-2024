@@ -1,4 +1,4 @@
-22498096632005473
+22508342481968474
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81683,6 +81683,13 @@ D_DO-214AC_SKxx
 2
 2
 ProjectEV
+D_PowerDI-123_DFLZxxQ
+
+
+0
+2
+2
+ProjectEV
 D_SMB_SMBJxxxCAQ
 
 
@@ -81691,6 +81698,27 @@ D_SMB_SMBJxxxCAQ
 2
 ProjectEV
 D_SOD-123HE_PZ1AHxxxB-AU
+
+
+0
+2
+2
+ProjectEV
+D_SOD-123HE_SS3040HE
+
+
+0
+2
+2
+ProjectEV
+D_SOD-123W_HPZR-Cxxx-QX
+
+
+0
+4
+2
+ProjectEV
+D_SOD-123_1N4448W
 
 
 0
@@ -81773,6 +81801,13 @@ HTSSOP SO
 0
 31
 29
+ProjectEV
+Package_LQFP-48-1EP_7x7mm_P0.5mm_EP4.15x4.15mm_LTC2949
+
+
+0
+53
+49
 ProjectEV
 Package_LQFP-64_10x10mm_P0.5mm
 LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -81943,6 +81978,13 @@ VSSOP SO
 10
 ProjectEV
 Package_WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm_LM5181
+
+
+0
+9
+9
+ProjectEV
+Package_WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm_LM25180-Q1
 
 
 0

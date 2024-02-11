@@ -5355,6 +5355,23 @@
     )
   )
 
+  (sheet (at 228.6 203.2) (size 25.4 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2a544a11-bc7a-441e-95e4-66a5a426d897)
+    (property "Sheetname" "Battery Stack Monitor" (at 228.6 202.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "battery-stack-monitor.kicad_sch" (at 228.6 241.8846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "AMS-board-2024"
+        (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261" (page "12"))
+      )
+    )
+  )
+
   (sheet (at 317.5 88.9) (size 25.4 55.88) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
