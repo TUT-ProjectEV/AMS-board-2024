@@ -3875,7 +3875,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 207.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 06055173-8013-4acb-afbb-63828b73ff69)
-    (property "Reference" "#PWR0315" (at 152.4 213.36 0)
+    (property "Reference" "#PWR0324" (at 152.4 213.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 212.09 0)
@@ -3891,7 +3891,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0315") (unit 1)
+          (reference "#PWR0324") (unit 1)
         )
       )
     )
@@ -3900,7 +3900,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 345.44 251.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 06153d11-a45f-4749-b48b-8ae227354e48)
-    (property "Reference" "#PWR0333" (at 345.44 257.81 0)
+    (property "Reference" "#PWR0344" (at 345.44 257.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 345.44 256.54 0)
@@ -3916,7 +3916,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0333") (unit 1)
+          (reference "#PWR0344") (unit 1)
         )
       )
     )
@@ -3925,7 +3925,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 331.47 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0682d712-f381-4e45-be17-d75c72c0a616)
-    (property "Reference" "#PWR0330" (at 325.12 127 0)
+    (property "Reference" "#PWR0341" (at 325.12 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 327.66 127 90)
@@ -3941,7 +3941,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0330") (unit 1)
+          (reference "#PWR0341") (unit 1)
         )
       )
     )
@@ -3950,7 +3950,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 320.04 256.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 06c4414f-6fb0-41fe-aa2d-9953ef0c4a6a)
-    (property "Reference" "#PWR0327" (at 320.04 262.89 0)
+    (property "Reference" "#PWR0337" (at 320.04 262.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 320.04 261.62 0)
@@ -3966,7 +3966,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0327") (unit 1)
+          (reference "#PWR0337") (unit 1)
         )
       )
     )
@@ -4054,7 +4054,7 @@
   (symbol (lib_id "Device:C") (at 336.55 127 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0bb260c6-16ba-4e18-9cf7-4e9faac76261)
-    (property "Reference" "C306" (at 336.55 119.38 90)
+    (property "Reference" "C307" (at 336.55 119.38 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10n" (at 336.55 121.92 90)
@@ -4071,7 +4071,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "C306") (unit 1)
+          (reference "C307") (unit 1)
         )
       )
     )
@@ -4211,7 +4211,7 @@
   (symbol (lib_id "ProjectEV:L_MH3261") (at 101.6 374.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 140fbb25-252c-4030-a63a-9910372ea8ee)
-    (property "Reference" "L24" (at 102.87 373.38 0)
+    (property "Reference" "L25" (at 102.87 373.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MH3261-601Y" (at 102.87 375.92 0)
@@ -4228,7 +4228,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "L24") (unit 1)
+          (reference "L25") (unit 1)
         )
       )
     )
@@ -4315,7 +4315,7 @@
   (symbol (lib_id "Device:R") (at 342.9 95.25 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 17a0413e-26d1-4dd2-af10-ec708ea96916)
-    (property "Reference" "R663" (at 345.44 93.98 0)
+    (property "Reference" "R561" (at 345.44 93.98 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "60.4" (at 345.44 96.52 0)
@@ -4332,7 +4332,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R663") (unit 1)
+          (reference "R561") (unit 1)
         )
       )
     )
@@ -4367,7 +4367,7 @@
   (symbol (lib_id "Device:R") (at 400.05 254 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1bf40591-1e23-4099-a706-67655cf9fd45)
-    (property "Reference" "R565" (at 400.05 248.92 90)
+    (property "Reference" "R567" (at 400.05 248.92 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100" (at 400.05 251.46 90)
@@ -4384,7 +4384,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R565") (unit 1)
+          (reference "R567") (unit 1)
         )
       )
     )
@@ -4497,7 +4497,7 @@
   (symbol (lib_id "Device:R") (at 342.9 133.35 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 231c16bb-2a19-4ddd-b0ac-181c5637aae6)
-    (property "Reference" "R561" (at 345.44 132.08 0)
+    (property "Reference" "R563" (at 345.44 132.08 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "60.4" (at 345.44 134.62 0)
@@ -4514,7 +4514,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R561") (unit 1)
+          (reference "R563") (unit 1)
         )
       )
     )
@@ -4523,7 +4523,7 @@
   (symbol (lib_id "Device:C") (at 363.22 209.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 23960e26-7407-4880-8289-daa210afe2dd)
-    (property "Reference" "C309" (at 367.03 208.28 0)
+    (property "Reference" "C310" (at 367.03 208.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 367.03 210.82 0)
@@ -4540,7 +4540,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "C309") (unit 1)
+          (reference "C310") (unit 1)
         )
       )
     )
@@ -4602,7 +4602,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 381 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 28c71e68-bea1-44a9-b771-0d2e8208e82b)
-    (property "Reference" "#PWR0338" (at 381 273.05 0)
+    (property "Reference" "#PWR0349" (at 381 273.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 381 271.78 0)
@@ -4618,7 +4618,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0338") (unit 1)
+          (reference "#PWR0349") (unit 1)
         )
       )
     )
@@ -4653,7 +4653,7 @@
   (symbol (lib_id "Device:R") (at 441.96 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2bfaf357-33d8-4530-893f-cba628a7e9f2)
-    (property "Reference" "R572" (at 444.5 246.38 0)
+    (property "Reference" "R574" (at 444.5 246.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 444.5 248.92 0)
@@ -4670,7 +4670,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R572") (unit 1)
+          (reference "R574") (unit 1)
         )
       )
     )
@@ -4679,7 +4679,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 327.66 205.74 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2dca7125-de55-4c3b-ad6c-0a0636e233ea)
-    (property "Reference" "#PWR0328" (at 334.01 205.74 0)
+    (property "Reference" "#PWR0338" (at 334.01 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 331.47 205.74 90)
@@ -4695,7 +4695,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0328") (unit 1)
+          (reference "#PWR0338") (unit 1)
         )
       )
     )
@@ -4834,7 +4834,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 441.96 309.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 34f35cb2-e051-4c0c-96d8-b1f870d9436a)
-    (property "Reference" "#PWR0345" (at 441.96 316.23 0)
+    (property "Reference" "#PWR0356" (at 441.96 316.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 441.96 314.96 0)
@@ -4850,7 +4850,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0345") (unit 1)
+          (reference "#PWR0356") (unit 1)
         )
       )
     )
@@ -5035,7 +5035,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 101.6 383.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3a93c38b-d67a-4680-b753-ef273efdf6cc)
-    (property "Reference" "#PWR0309" (at 101.6 389.89 0)
+    (property "Reference" "#PWR0318" (at 101.6 389.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 101.6 388.62 0)
@@ -5051,7 +5051,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0309") (unit 1)
+          (reference "#PWR0318") (unit 1)
         )
       )
     )
@@ -5112,7 +5112,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 424.18 284.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3e78b28b-6f29-4f08-8280-8e07675399a6)
-    (property "Reference" "#PWR0344" (at 424.18 290.83 0)
+    (property "Reference" "#PWR0355" (at 424.18 290.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 424.18 289.56 0)
@@ -5128,7 +5128,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0344") (unit 1)
+          (reference "#PWR0355") (unit 1)
         )
       )
     )
@@ -5137,7 +5137,7 @@
   (symbol (lib_id "Device:R") (at 393.7 120.65 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3e7c20c1-a4ec-4f93-b0a4-1eb243edd4b4)
-    (property "Reference" "R563" (at 396.24 119.38 0)
+    (property "Reference" "R565" (at 396.24 119.38 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "294" (at 396.24 121.92 0)
@@ -5154,7 +5154,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R563") (unit 1)
+          (reference "R565") (unit 1)
         )
       )
     )
@@ -5189,7 +5189,7 @@
   (symbol (lib_id "Device:R") (at 400.05 304.8 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 40591454-c275-4d53-8d4d-7ae42b8320ec)
-    (property "Reference" "R567" (at 400.05 299.72 90)
+    (property "Reference" "R569" (at 400.05 299.72 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100" (at 400.05 302.26 90)
@@ -5206,7 +5206,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R567") (unit 1)
+          (reference "R569") (unit 1)
         )
       )
     )
@@ -5319,7 +5319,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 327.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 463147ea-dbbc-4e74-bf20-e2892fe970f7)
-    (property "Reference" "#PWR0320" (at 152.4 334.01 0)
+    (property "Reference" "#PWR0329" (at 152.4 334.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 332.74 0)
@@ -5335,7 +5335,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0320") (unit 1)
+          (reference "#PWR0329") (unit 1)
         )
       )
     )
@@ -5397,7 +5397,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 351.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 477f3472-5fa1-4534-8069-babc1d55211a)
-    (property "Reference" "#PWR0321" (at 152.4 358.14 0)
+    (property "Reference" "#PWR0330" (at 152.4 358.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 356.87 0)
@@ -5413,7 +5413,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0321") (unit 1)
+          (reference "#PWR0330") (unit 1)
         )
       )
     )
@@ -5422,7 +5422,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4b1b5ff0-5fa8-4b3f-8aac-2b38e202bc8b)
-    (property "Reference" "#PWR0314" (at 152.4 189.23 0)
+    (property "Reference" "#PWR0323" (at 152.4 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 187.96 0)
@@ -5438,7 +5438,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0314") (unit 1)
+          (reference "#PWR0323") (unit 1)
         )
       )
     )
@@ -5474,7 +5474,7 @@
   (symbol (lib_id "Device:R") (at 342.9 120.65 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4c9e249d-ee8c-4800-9c28-df9cb20432d7)
-    (property "Reference" "R560" (at 345.44 119.38 0)
+    (property "Reference" "R562" (at 345.44 119.38 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "60.4" (at 345.44 121.92 0)
@@ -5491,7 +5491,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R560") (unit 1)
+          (reference "R562") (unit 1)
         )
       )
     )
@@ -5578,7 +5578,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 517aa1f6-f033-433c-ba92-0dfd618d4e46)
-    (property "Reference" "#PWR0311" (at 152.4 116.84 0)
+    (property "Reference" "#PWR0320" (at 152.4 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 115.57 0)
@@ -5594,7 +5594,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0311") (unit 1)
+          (reference "#PWR0320") (unit 1)
         )
       )
     )
@@ -5681,7 +5681,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 327.66 226.06 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 56f24ea0-44a6-4b75-ae70-72921f2c8d0d)
-    (property "Reference" "#PWR0329" (at 334.01 226.06 0)
+    (property "Reference" "#PWR0339" (at 334.01 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 331.47 226.06 90)
@@ -5697,7 +5697,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0329") (unit 1)
+          (reference "#PWR0339") (unit 1)
         )
       )
     )
@@ -5811,7 +5811,7 @@
   (symbol (lib_id "Device:R") (at 393.7 133.35 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5da8afe5-8272-46ce-9f9c-209f8d2549d9)
-    (property "Reference" "R564" (at 396.24 132.08 0)
+    (property "Reference" "R566" (at 396.24 132.08 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "294" (at 396.24 134.62 0)
@@ -5828,7 +5828,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R564") (unit 1)
+          (reference "R566") (unit 1)
         )
       )
     )
@@ -5837,7 +5837,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 477.52 360.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e2b4a01-b854-44ef-9d60-7712c4723a7b)
-    (property "Reference" "#PWR0347" (at 477.52 367.03 0)
+    (property "Reference" "#PWR0358" (at 477.52 367.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 477.52 365.76 0)
@@ -5853,7 +5853,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0347") (unit 1)
+          (reference "#PWR0358") (unit 1)
         )
       )
     )
@@ -5862,7 +5862,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 331.47 88.9 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e2e774e-db7a-48df-9139-0d6280f4290e)
-    (property "Reference" "#PWR0447" (at 325.12 88.9 0)
+    (property "Reference" "#PWR0340" (at 325.12 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 327.66 88.9 90)
@@ -5878,7 +5878,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0447") (unit 1)
+          (reference "#PWR0340") (unit 1)
         )
       )
     )
@@ -5887,7 +5887,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 381 368.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e582556-66d2-4c47-9a67-ecb538fc1ad2)
-    (property "Reference" "#PWR0340" (at 381 374.65 0)
+    (property "Reference" "#PWR0351" (at 381 374.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 381 373.38 0)
@@ -5903,7 +5903,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0340") (unit 1)
+          (reference "#PWR0351") (unit 1)
         )
       )
     )
@@ -5912,7 +5912,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 231.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5f45f316-1cba-4edc-be55-18ace41411b9)
-    (property "Reference" "#PWR0316" (at 152.4 237.49 0)
+    (property "Reference" "#PWR0325" (at 152.4 237.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 236.22 0)
@@ -5928,7 +5928,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0316") (unit 1)
+          (reference "#PWR0325") (unit 1)
         )
       )
     )
@@ -5937,7 +5937,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 158.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5f8e5c0c-2f66-40e1-a6c6-f90f1203f3fb)
-    (property "Reference" "#PWR0313" (at 152.4 165.1 0)
+    (property "Reference" "#PWR0322" (at 152.4 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 163.83 0)
@@ -5953,7 +5953,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0313") (unit 1)
+          (reference "#PWR0322") (unit 1)
         )
       )
     )
@@ -5962,7 +5962,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 368.3 292.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6067581d-59a4-460b-9863-0070330b8412)
-    (property "Reference" "#PWR0336" (at 368.3 298.45 0)
+    (property "Reference" "#PWR0347" (at 368.3 298.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 368.3 297.18 0)
@@ -5978,7 +5978,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0336") (unit 1)
+          (reference "#PWR0347") (unit 1)
         )
       )
     )
@@ -6117,7 +6117,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 381 317.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 64e2ccaf-4280-4236-bfb7-b272f30faf2d)
-    (property "Reference" "#PWR0339" (at 381 323.85 0)
+    (property "Reference" "#PWR0350" (at 381 323.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 381 322.58 0)
@@ -6133,7 +6133,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0339") (unit 1)
+          (reference "#PWR0350") (unit 1)
         )
       )
     )
@@ -6168,7 +6168,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 165.1 375.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 685304be-95b6-4212-a15a-236b9ef44a4b)
-    (property "Reference" "#PWR0322" (at 165.1 382.27 0)
+    (property "Reference" "#PWR0331" (at 165.1 382.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 165.1 381 0)
@@ -6184,7 +6184,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0322") (unit 1)
+          (reference "#PWR0331") (unit 1)
         )
       )
     )
@@ -6637,7 +6637,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 279.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 769b9bbf-f83f-4923-9e08-85def3544cae)
-    (property "Reference" "#PWR0318" (at 152.4 285.75 0)
+    (property "Reference" "#PWR0327" (at 152.4 285.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 284.48 0)
@@ -6653,7 +6653,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0318") (unit 1)
+          (reference "#PWR0327") (unit 1)
         )
       )
     )
@@ -6766,7 +6766,7 @@
   (symbol (lib_id "Device:R") (at 459.74 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7b05a61d-1f26-4f36-8a4f-4817743783fa)
-    (property "Reference" "R573" (at 462.28 246.38 0)
+    (property "Reference" "R575" (at 462.28 246.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 462.28 248.92 0)
@@ -6783,7 +6783,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R573") (unit 1)
+          (reference "R575") (unit 1)
         )
       )
     )
@@ -6792,7 +6792,7 @@
   (symbol (lib_id "Device:R") (at 400.05 355.6 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7cd3b22e-0e00-42e8-9b03-12cd6bab8827)
-    (property "Reference" "R569" (at 400.05 350.52 90)
+    (property "Reference" "R571" (at 400.05 350.52 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100" (at 400.05 353.06 90)
@@ -6809,7 +6809,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R569") (unit 1)
+          (reference "R571") (unit 1)
         )
       )
     )
@@ -6818,7 +6818,7 @@
   (symbol (lib_id "Device:R") (at 342.9 82.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 820aca5e-ea09-484a-9893-1dfad7b6ed17)
-    (property "Reference" "R662" (at 345.44 81.28 0)
+    (property "Reference" "R560" (at 345.44 81.28 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "60.4" (at 345.44 83.82 0)
@@ -6835,7 +6835,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R662") (unit 1)
+          (reference "R560") (unit 1)
         )
       )
     )
@@ -7106,7 +7106,7 @@
   (symbol (lib_id "Device:R") (at 400.05 279.4 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 94f14847-0b3d-4573-b909-092600024a02)
-    (property "Reference" "R566" (at 400.05 274.32 90)
+    (property "Reference" "R568" (at 400.05 274.32 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100" (at 400.05 276.86 90)
@@ -7123,7 +7123,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R566") (unit 1)
+          (reference "R568") (unit 1)
         )
       )
     )
@@ -7184,7 +7184,7 @@
   (symbol (lib_id "Device:C") (at 358.14 242.57 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 98ada1a0-c889-4132-8f73-5f4802d6d8a1)
-    (property "Reference" "C308" (at 361.95 241.3 0)
+    (property "Reference" "C309" (at 361.95 241.3 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 361.95 243.84 0)
@@ -7201,7 +7201,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "C308") (unit 1)
+          (reference "C309") (unit 1)
         )
       )
     )
@@ -7262,7 +7262,7 @@
   (symbol (lib_id "Device:C") (at 336.55 88.9 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 99f131e0-d934-495b-a398-7decc472ef00)
-    (property "Reference" "C373" (at 336.55 81.28 90)
+    (property "Reference" "C306" (at 336.55 81.28 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10n" (at 336.55 83.82 90)
@@ -7279,7 +7279,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "C373") (unit 1)
+          (reference "C306") (unit 1)
         )
       )
     )
@@ -7314,7 +7314,7 @@
   (symbol (lib_id "Device:R") (at 424.18 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9de71f3b-41a8-4a13-8f58-06ea18ecfebb)
-    (property "Reference" "R571" (at 426.72 246.38 0)
+    (property "Reference" "R573" (at 426.72 246.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 426.72 248.92 0)
@@ -7331,7 +7331,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R571") (unit 1)
+          (reference "R573") (unit 1)
         )
       )
     )
@@ -7340,7 +7340,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9df82703-c29a-409b-8092-9e24761acac9)
-    (property "Reference" "#PWR0310" (at 152.4 92.71 0)
+    (property "Reference" "#PWR0319" (at 152.4 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 91.44 0)
@@ -7356,7 +7356,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0310") (unit 1)
+          (reference "#PWR0319") (unit 1)
         )
       )
     )
@@ -7417,7 +7417,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 320.04 231.14 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a73237ad-5e58-428e-ba38-e899e54daddb)
-    (property "Reference" "#PWR0326" (at 326.39 231.14 0)
+    (property "Reference" "#PWR0336" (at 326.39 231.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 323.85 231.14 90)
@@ -7433,7 +7433,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0326") (unit 1)
+          (reference "#PWR0336") (unit 1)
         )
       )
     )
@@ -7442,7 +7442,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 307.34 259.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a979c43d-b583-47ee-b122-c69b4a53e446)
-    (property "Reference" "#PWR0325" (at 307.34 265.43 0)
+    (property "Reference" "#PWR0335" (at 307.34 265.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 307.34 264.16 0)
@@ -7458,7 +7458,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0325") (unit 1)
+          (reference "#PWR0335") (unit 1)
         )
       )
     )
@@ -7493,7 +7493,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 292.1 254 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ac19dd6f-6fa6-4181-a6de-57a99b9b8fed)
-    (property "Reference" "#PWR0324" (at 292.1 260.35 0)
+    (property "Reference" "#PWR0333" (at 292.1 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 292.1 259.08 0)
@@ -7509,7 +7509,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0324") (unit 1)
+          (reference "#PWR0333") (unit 1)
         )
       )
     )
@@ -7674,7 +7674,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 459.74 335.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b19524fd-27a6-4d1c-adcc-529f6275be22)
-    (property "Reference" "#PWR0346" (at 459.74 341.63 0)
+    (property "Reference" "#PWR0357" (at 459.74 341.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 459.74 340.36 0)
@@ -7690,7 +7690,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0346") (unit 1)
+          (reference "#PWR0357") (unit 1)
         )
       )
     )
@@ -7752,7 +7752,7 @@
   (symbol (lib_id "Device:R") (at 477.52 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b296de3c-ddf9-497c-8525-dcc172a19ac8)
-    (property "Reference" "R574" (at 480.06 246.38 0)
+    (property "Reference" "R576" (at 480.06 246.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 480.06 248.92 0)
@@ -7769,7 +7769,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R574") (unit 1)
+          (reference "R576") (unit 1)
         )
       )
     )
@@ -7804,7 +7804,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 332.74 254 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8d0e3eb-8999-4b22-ad76-f25754a879af)
-    (property "Reference" "#PWR0331" (at 332.74 260.35 0)
+    (property "Reference" "#PWR0342" (at 332.74 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 332.74 259.08 0)
@@ -7820,7 +7820,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0331") (unit 1)
+          (reference "#PWR0342") (unit 1)
         )
       )
     )
@@ -7908,7 +7908,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 382.27 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bfa2c134-c3df-4d84-a85a-5f75e453b373)
-    (property "Reference" "#PWR0341" (at 375.92 127 0)
+    (property "Reference" "#PWR0352" (at 375.92 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 378.46 127 90)
@@ -7924,7 +7924,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0341") (unit 1)
+          (reference "#PWR0352") (unit 1)
         )
       )
     )
@@ -7933,7 +7933,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 255.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bfd35e78-d438-4c51-b2d4-652a5c52fbc0)
-    (property "Reference" "#PWR0317" (at 152.4 261.62 0)
+    (property "Reference" "#PWR0326" (at 152.4 261.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 260.35 0)
@@ -7949,7 +7949,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0317") (unit 1)
+          (reference "#PWR0326") (unit 1)
         )
       )
     )
@@ -7958,7 +7958,7 @@
   (symbol (lib_id "Device:R") (at 355.6 196.85 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c11316dc-0ce0-425d-880d-d25152f71340)
-    (property "Reference" "R562" (at 358.14 195.58 0)
+    (property "Reference" "R564" (at 358.14 195.58 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100" (at 358.14 198.12 0)
@@ -7975,7 +7975,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R562") (unit 1)
+          (reference "R564") (unit 1)
         )
       )
     )
@@ -7984,7 +7984,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 368.3 342.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c20a74c3-778d-4f71-95b5-63aa72bda934)
-    (property "Reference" "#PWR0337" (at 368.3 349.25 0)
+    (property "Reference" "#PWR0348" (at 368.3 349.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 368.3 347.98 0)
@@ -8000,7 +8000,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0337") (unit 1)
+          (reference "#PWR0348") (unit 1)
         )
       )
     )
@@ -8140,7 +8140,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 303.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cbd3659d-fbf3-4293-b5bf-e92b01eecc16)
-    (property "Reference" "#PWR0319" (at 152.4 309.88 0)
+    (property "Reference" "#PWR0328" (at 152.4 309.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 308.61 0)
@@ -8156,7 +8156,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0319") (unit 1)
+          (reference "#PWR0328") (unit 1)
         )
       )
     )
@@ -8269,7 +8269,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 307.34 223.52 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ceb5de51-c062-46c1-9bad-0a04757b5e42)
-    (property "Reference" "#PWR0433" (at 313.69 223.52 0)
+    (property "Reference" "#PWR0334" (at 313.69 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 311.15 223.52 90)
@@ -8285,7 +8285,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0433") (unit 1)
+          (reference "#PWR0334") (unit 1)
         )
       )
     )
@@ -8294,7 +8294,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 96.52 381 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cf11aad2-b53f-4c4d-879d-bad160cfa83c)
-    (property "Reference" "#FLG017" (at 96.52 379.095 0)
+    (property "Reference" "#FLG018" (at 96.52 379.095 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 96.52 375.92 0)
@@ -8310,7 +8310,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#FLG017") (unit 1)
+          (reference "#FLG018") (unit 1)
         )
       )
     )
@@ -8319,7 +8319,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 152.4 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d54caed7-4d5c-4fb8-8b74-6e025f25d828)
-    (property "Reference" "#PWR0312" (at 152.4 140.97 0)
+    (property "Reference" "#PWR0321" (at 152.4 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 152.4 139.7 0)
@@ -8335,7 +8335,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0312") (unit 1)
+          (reference "#PWR0321") (unit 1)
         )
       )
     )
@@ -8344,7 +8344,7 @@
   (symbol (lib_id "Device:R") (at 400.05 330.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d9548170-0431-47d9-a177-4c74931df447)
-    (property "Reference" "R568" (at 400.05 325.12 90)
+    (property "Reference" "R570" (at 400.05 325.12 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100" (at 400.05 327.66 90)
@@ -8361,7 +8361,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R568") (unit 1)
+          (reference "R570") (unit 1)
         )
       )
     )
@@ -8397,7 +8397,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 292.1 165.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dc620baf-15ae-4a05-9c35-0c350b761414)
-    (property "Reference" "#FLG09" (at 292.1 163.195 0)
+    (property "Reference" "#FLG019" (at 292.1 163.195 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 292.1 160.02 0)
@@ -8413,7 +8413,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#FLG09") (unit 1)
+          (reference "#FLG019") (unit 1)
         )
       )
     )
@@ -8656,7 +8656,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 337.82 220.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e495d6c1-3e55-463c-b187-7831b5b2d94b)
-    (property "Reference" "#PWR0332" (at 344.17 220.98 0)
+    (property "Reference" "#PWR0343" (at 344.17 220.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 341.63 220.98 90)
@@ -8672,7 +8672,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0332") (unit 1)
+          (reference "#PWR0343") (unit 1)
         )
       )
     )
@@ -8681,7 +8681,7 @@
   (symbol (lib_id "Device:C") (at 345.44 245.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e832e2cf-ba7e-4350-a546-ae76a9170bf3)
-    (property "Reference" "C307" (at 349.25 243.84 0)
+    (property "Reference" "C308" (at 349.25 243.84 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 349.25 246.38 0)
@@ -8698,7 +8698,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "C307") (unit 1)
+          (reference "C308") (unit 1)
         )
       )
     )
@@ -8733,7 +8733,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 416.56 231.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ebfd7c8f-94b9-4b47-9704-9f99ff77e103)
-    (property "Reference" "#PWR0343" (at 416.56 237.49 0)
+    (property "Reference" "#PWR0354" (at 416.56 237.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 416.56 236.22 0)
@@ -8749,7 +8749,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0343") (unit 1)
+          (reference "#PWR0354") (unit 1)
         )
       )
     )
@@ -8810,7 +8810,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 363.22 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f0048037-ab7b-4eeb-9076-26cd1970d8e8)
-    (property "Reference" "#PWR0335" (at 363.22 222.25 0)
+    (property "Reference" "#PWR0346" (at 363.22 222.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 363.22 220.98 0)
@@ -8826,7 +8826,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0335") (unit 1)
+          (reference "#PWR0346") (unit 1)
         )
       )
     )
@@ -8835,7 +8835,7 @@
   (symbol (lib_id "Device:R") (at 406.4 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f02a49b6-6f76-4668-b1ee-0f35bc180ccd)
-    (property "Reference" "R570" (at 408.94 246.38 0)
+    (property "Reference" "R572" (at 408.94 246.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 408.94 248.92 0)
@@ -8852,7 +8852,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "R570") (unit 1)
+          (reference "R572") (unit 1)
         )
       )
     )
@@ -8887,7 +8887,7 @@
   (symbol (lib_id "Device:C") (at 387.35 127 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f20a2abc-a850-4fb4-ad4a-860189486e68)
-    (property "Reference" "C310" (at 387.35 119.38 90)
+    (property "Reference" "C311" (at 387.35 119.38 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10n" (at 387.35 121.92 90)
@@ -8904,7 +8904,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "C310") (unit 1)
+          (reference "C311") (unit 1)
         )
       )
     )
@@ -8966,7 +8966,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 406.4 259.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f6577df5-e439-46a2-b941-015953f2274d)
-    (property "Reference" "#PWR0342" (at 406.4 265.43 0)
+    (property "Reference" "#PWR0353" (at 406.4 265.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 406.4 264.16 0)
@@ -8982,7 +8982,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0342") (unit 1)
+          (reference "#PWR0353") (unit 1)
         )
       )
     )
@@ -9017,7 +9017,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 281.94 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fda78ead-d223-4770-964c-571fe9d7ea82)
-    (property "Reference" "#PWR0323" (at 281.94 182.88 0)
+    (property "Reference" "#PWR0332" (at 281.94 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 281.94 181.61 0)
@@ -9033,7 +9033,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0323") (unit 1)
+          (reference "#PWR0332") (unit 1)
         )
       )
     )
@@ -9068,7 +9068,7 @@
   (symbol (lib_id "ProjectEV:GND8") (at 358.14 248.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ff0187af-0ec0-4822-b568-0fb4bf1260d0)
-    (property "Reference" "#PWR0334" (at 358.14 255.27 0)
+    (property "Reference" "#PWR0345" (at 358.14 255.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND8" (at 358.14 254 0)
@@ -9084,7 +9084,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/89a445cf-4dca-4c05-9556-2d66db3a69e6"
-          (reference "#PWR0334") (unit 1)
+          (reference "#PWR0345") (unit 1)
         )
       )
     )

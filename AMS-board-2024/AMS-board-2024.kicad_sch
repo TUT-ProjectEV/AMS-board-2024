@@ -3180,7 +3180,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x14") (at 264.16 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 017b7315-dcc4-4c9d-9ab1-86f563887a03)
-    (property "Reference" "J15" (at 264.16 44.45 0)
+    (property "Reference" "J17" (at 264.16 44.45 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XH_14pin_Side" (at 264.16 46.99 0)
@@ -3209,7 +3209,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "J15") (unit 1)
+          (reference "J17") (unit 1)
         )
       )
     )
@@ -3218,7 +3218,7 @@
   (symbol (lib_id "ProjectEV:Transfomer_CEEH96B") (at 262.89 205.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 01ce3c72-8efe-441e-909c-a2a9956205e0)
-    (property "Reference" "L29" (at 262.89 198.12 0)
+    (property "Reference" "L16" (at 262.89 198.12 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "CEEH96B" (at 262.89 200.66 0)
@@ -3237,7 +3237,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "L29") (unit 1)
+          (reference "L16") (unit 1)
         )
       )
     )
@@ -3404,7 +3404,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x08") (at 299.72 132.08 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 15832a97-8c60-4d05-a093-2b7d8d057c0a)
-    (property "Reference" "J18" (at 299.72 118.11 0)
+    (property "Reference" "J20" (at 299.72 118.11 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XH_8pin_Side" (at 299.72 120.65 0)
@@ -3427,7 +3427,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "J18") (unit 1)
+          (reference "J20") (unit 1)
         )
       )
     )
@@ -3436,7 +3436,7 @@
   (symbol (lib_id "power:GND") (at 345.44 185.42 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 16218cc0-8c57-413d-95b9-c99c164ae565)
-    (property "Reference" "#PWR015" (at 351.79 185.42 0)
+    (property "Reference" "#PWR016" (at 351.79 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 349.25 185.42 90)
@@ -3452,7 +3452,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -3461,7 +3461,7 @@
   (symbol (lib_id "power:+5V") (at 358.14 175.26 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 195d8b51-184e-41b0-81a4-170cdb8c3c0d)
-    (property "Reference" "#PWR012" (at 354.33 175.26 0)
+    (property "Reference" "#PWR021" (at 354.33 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 361.95 175.26 90)
@@ -3477,7 +3477,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR021") (unit 1)
         )
       )
     )
@@ -3486,7 +3486,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x10") (at 360.68 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 19fa4cff-beab-4622-add5-2345b8072ac4)
-    (property "Reference" "J20" (at 358.14 92.71 0)
+    (property "Reference" "J22" (at 358.14 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PinHeader_02x05_P1.00mm" (at 346.71 95.25 0)
@@ -3511,7 +3511,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "J20") (unit 1)
+          (reference "J22") (unit 1)
         )
       )
     )
@@ -3548,7 +3548,7 @@
   (symbol (lib_id "power:GNDD") (at 381 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1fe0bf99-1370-453f-8ef6-005d22e887cc)
-    (property "Reference" "#PWR021" (at 381 82.55 0)
+    (property "Reference" "#PWR023" (at 381 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDD" (at 381 80.01 0)
@@ -3564,7 +3564,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR023") (unit 1)
         )
       )
     )
@@ -3639,7 +3639,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 299.72 106.68 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 23d28567-e5c9-4cb7-b892-2f848c12e7ee)
-    (property "Reference" "J17" (at 299.72 95.25 0)
+    (property "Reference" "J19" (at 299.72 95.25 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XH_6pin_Side" (at 299.72 97.79 0)
@@ -3660,7 +3660,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "J17") (unit 1)
+          (reference "J19") (unit 1)
         )
       )
     )
@@ -3669,7 +3669,7 @@
   (symbol (lib_id "power:GNDD") (at 342.9 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 26d6e257-7462-4f9d-8939-1c79678a1337)
-    (property "Reference" "#PWR09" (at 342.9 64.77 0)
+    (property "Reference" "#PWR011" (at 342.9 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDD" (at 342.9 62.23 0)
@@ -3685,7 +3685,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR011") (unit 1)
         )
       )
     )
@@ -3694,7 +3694,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x14") (at 264.16 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 29c68d92-1247-4584-b1c8-283badc786e5)
-    (property "Reference" "J16" (at 264.16 133.35 0)
+    (property "Reference" "J18" (at 264.16 133.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XH_14pin_Side" (at 264.16 135.89 0)
@@ -3723,7 +3723,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "J16") (unit 1)
+          (reference "J18") (unit 1)
         )
       )
     )
@@ -3732,7 +3732,7 @@
   (symbol (lib_id "power:GND") (at 353.06 109.22 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2a9da5b9-8748-4efc-88f6-3e2d24e74278)
-    (property "Reference" "#PWR018" (at 346.71 109.22 0)
+    (property "Reference" "#PWR019" (at 346.71 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 349.25 109.22 90)
@@ -3748,7 +3748,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -3785,7 +3785,7 @@
   (symbol (lib_id "power:GND") (at 353.06 119.38 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2cf3cb51-85ad-4d45-898d-ab8d7a911ca3)
-    (property "Reference" "#PWR019" (at 346.71 119.38 0)
+    (property "Reference" "#PWR020" (at 346.71 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 349.25 119.38 90)
@@ -3801,7 +3801,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR020") (unit 1)
         )
       )
     )
@@ -3810,7 +3810,7 @@
   (symbol (lib_id "power:GND") (at 307.34 127 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2d7db75c-31e8-4fdc-8314-bc80fed9e03c)
-    (property "Reference" "#PWR04" (at 313.69 127 0)
+    (property "Reference" "#PWR06" (at 313.69 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 311.15 127 90)
@@ -3826,7 +3826,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR06") (unit 1)
         )
       )
     )
@@ -3911,7 +3911,7 @@
   (symbol (lib_id "power:GND") (at 312.42 172.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 367cbbbe-3b03-4f30-a5d1-e58f325a39e5)
-    (property "Reference" "#PWR06" (at 312.42 179.07 0)
+    (property "Reference" "#PWR08" (at 312.42 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 312.42 177.8 0)
@@ -3927,7 +3927,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR08") (unit 1)
         )
       )
     )
@@ -4040,7 +4040,7 @@
   (symbol (lib_id "power:+12V") (at 256.54 223.52 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 48345f43-1e7d-4d00-8145-f05c1a293ea3)
-    (property "Reference" "#PWR0467" (at 252.73 223.52 0)
+    (property "Reference" "#PWR01" (at 252.73 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 260.35 223.52 90)
@@ -4056,7 +4056,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR0467") (unit 1)
+          (reference "#PWR01") (unit 1)
         )
       )
     )
@@ -4065,7 +4065,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 393.7 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4c304e4c-88ec-4d78-b0d4-1e2492115512)
-    (property "Reference" "#FLG023" (at 393.7 73.025 0)
+    (property "Reference" "#FLG03" (at 393.7 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 393.7 69.85 0)
@@ -4081,7 +4081,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#FLG023") (unit 1)
+          (reference "#FLG03") (unit 1)
         )
       )
     )
@@ -4090,7 +4090,7 @@
   (symbol (lib_id "power:GND") (at 256.54 226.06 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4dbb6c1a-b4e4-45ba-ba2a-a0735152b30e)
-    (property "Reference" "#PWR0468" (at 262.89 226.06 0)
+    (property "Reference" "#PWR02" (at 262.89 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 260.35 226.06 90)
@@ -4106,7 +4106,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR0468") (unit 1)
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -4115,7 +4115,7 @@
   (symbol (lib_id "power:VBUS") (at 363.22 35.56 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 50c15b76-6785-4341-ba11-7cf9f733cf67)
-    (property "Reference" "#PWR020" (at 363.22 39.37 0)
+    (property "Reference" "#PWR022" (at 363.22 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (at 363.22 30.48 0)
@@ -4131,7 +4131,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR022") (unit 1)
         )
       )
     )
@@ -4168,7 +4168,7 @@
   (symbol (lib_id "power:+12V") (at 345.44 167.64 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 59760757-7442-42ed-9ff8-8d7b552be575)
-    (property "Reference" "#PWR010" (at 341.63 167.64 0)
+    (property "Reference" "#PWR012" (at 341.63 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 349.25 167.64 90)
@@ -4184,7 +4184,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR010") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -4325,7 +4325,7 @@
   (symbol (lib_id "power:+5V") (at 307.34 101.6 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 74565dd2-7f73-47e2-8c9e-01ddc835fa40)
-    (property "Reference" "#PWR01" (at 303.53 101.6 0)
+    (property "Reference" "#PWR03" (at 303.53 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 311.15 101.6 90)
@@ -4341,7 +4341,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -4350,7 +4350,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 360.68 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7cbf42c0-6e26-47e3-a352-cbda464e2768)
-    (property "Reference" "J21" (at 359.41 125.73 0)
+    (property "Reference" "J23" (at 359.41 125.73 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "XH_2pin_Side" (at 354.33 128.27 0)
@@ -4367,7 +4367,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "J21") (unit 1)
+          (reference "J23") (unit 1)
         )
       )
     )
@@ -4454,7 +4454,7 @@
   (symbol (lib_id "ProjectEV:USB_C_Receptacle_5077CR-16-SMC2-BK-TR") (at 381 50.8 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9039a453-23f6-4833-b2b0-cc76e24c18f1)
-    (property "Reference" "J22" (at 381 27.94 0)
+    (property "Reference" "J24" (at 381 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "5077CR-16-SMC2-BK-TR" (at 381 30.48 0)
@@ -4486,7 +4486,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "J22") (unit 1)
+          (reference "J24") (unit 1)
         )
       )
     )
@@ -4495,7 +4495,7 @@
   (symbol (lib_id "power:GND") (at 353.06 104.14 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 919cb79f-a25d-4320-830a-a329b6e67295)
-    (property "Reference" "#PWR017" (at 346.71 104.14 0)
+    (property "Reference" "#PWR018" (at 346.71 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 349.25 104.14 90)
@@ -4511,7 +4511,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -4520,7 +4520,7 @@
   (symbol (lib_id "power:GND") (at 307.34 104.14 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 92c4d3a7-b3cd-4fc5-974e-3f04891589c4)
-    (property "Reference" "#PWR02" (at 313.69 104.14 0)
+    (property "Reference" "#PWR04" (at 313.69 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 311.15 104.14 90)
@@ -4536,7 +4536,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
       )
     )
@@ -4601,7 +4601,7 @@
   (symbol (lib_id "power:GNDD") (at 314.96 185.42 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a6fef0aa-4f3e-4be7-b31e-2dfbf1376fcf)
-    (property "Reference" "#PWR08" (at 308.61 185.42 0)
+    (property "Reference" "#PWR010" (at 308.61 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDD" (at 311.15 185.42 90)
@@ -4617,7 +4617,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR010") (unit 1)
         )
       )
     )
@@ -4626,7 +4626,7 @@
   (symbol (lib_id "power:+5V") (at 353.06 99.06 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ab4d19a9-ea1e-492e-9d79-142fbdb3192c)
-    (property "Reference" "#PWR016" (at 356.87 99.06 0)
+    (property "Reference" "#PWR017" (at 356.87 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 349.25 99.06 90)
@@ -4642,7 +4642,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
       )
     )
@@ -4651,7 +4651,7 @@
   (symbol (lib_id "power:GND") (at 345.44 177.8 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid af4403cb-f964-4fc0-83e7-4f2dd9b2c81a)
-    (property "Reference" "#PWR013" (at 351.79 177.8 0)
+    (property "Reference" "#PWR014" (at 351.79 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 349.25 177.8 90)
@@ -4667,7 +4667,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR014") (unit 1)
         )
       )
     )
@@ -4742,7 +4742,7 @@
   (symbol (lib_id "power:+5V") (at 307.34 124.46 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c009a057-96f0-4664-9af2-fe727ee3f1ac)
-    (property "Reference" "#PWR03" (at 303.53 124.46 0)
+    (property "Reference" "#PWR05" (at 303.53 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 311.15 124.46 90)
@@ -4758,7 +4758,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR05") (unit 1)
         )
       )
     )
@@ -4767,7 +4767,7 @@
   (symbol (lib_id "power:+BATT") (at 312.42 165.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c1759102-d3e2-45d6-bde9-3eb90d8ac5f3)
-    (property "Reference" "#PWR05" (at 312.42 168.91 0)
+    (property "Reference" "#PWR07" (at 312.42 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+BATT" (at 312.42 160.02 0)
@@ -4783,7 +4783,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR07") (unit 1)
         )
       )
     )
@@ -4932,7 +4932,7 @@
   (symbol (lib_name "Connector_XT30PW-M_1") (lib_id "ProjectEV:Connector_XT30PW-M") (at 218.44 223.52 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d0d71dd0-e5b1-4ca8-8501-0a66db6c311c)
-    (property "Reference" "J24" (at 214.63 223.52 0)
+    (property "Reference" "J16" (at 214.63 223.52 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XT30_2pin_Side" (at 209.55 226.06 0)
@@ -4950,7 +4950,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "J24") (unit 1)
+          (reference "J16") (unit 1)
         )
       )
     )
@@ -4959,7 +4959,7 @@
   (symbol (lib_id "ProjectEV:Connector_XT30PW-M") (at 218.44 205.74 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d2d98e2f-913f-4c44-8a1a-a0417f356441)
-    (property "Reference" "J23" (at 214.63 205.74 0)
+    (property "Reference" "J15" (at 214.63 205.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XT30_2pin_Side" (at 209.55 208.28 0)
@@ -4977,7 +4977,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "J23") (unit 1)
+          (reference "J15") (unit 1)
         )
       )
     )
@@ -5014,7 +5014,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 299.72 170.18 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e6389d0c-cacf-42c3-a97d-f1bfcb0b57be)
-    (property "Reference" "J19" (at 300.99 161.29 0)
+    (property "Reference" "J21" (at 300.99 161.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "XH_2pin_Side" (at 306.07 163.83 0)
@@ -5031,7 +5031,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "J19") (unit 1)
+          (reference "J21") (unit 1)
         )
       )
     )
@@ -5068,7 +5068,7 @@
   (symbol (lib_id "power:VBUS") (at 314.96 182.88 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f081d307-6b24-4e41-8440-01931c3aa645)
-    (property "Reference" "#PWR07" (at 318.77 182.88 0)
+    (property "Reference" "#PWR09" (at 318.77 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (at 311.15 182.88 90)
@@ -5084,7 +5084,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -5118,7 +5118,7 @@
   (symbol (lib_id "ProjectEV:Transfomer_CEEH96B") (at 308.61 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f5e9b8c2-b21f-44ed-be2a-043bb38623df)
-    (property "Reference" "L16" (at 308.61 83.82 0)
+    (property "Reference" "L17" (at 308.61 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "CEEH96B" (at 308.61 86.36 0)
@@ -5137,7 +5137,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "L16") (unit 1)
+          (reference "L17") (unit 1)
         )
       )
     )
@@ -5146,7 +5146,7 @@
   (symbol (lib_id "power:GND") (at 345.44 170.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f70eae23-75c9-4948-95cf-9ec209c81e05)
-    (property "Reference" "#PWR011" (at 351.79 170.18 0)
+    (property "Reference" "#PWR013" (at 351.79 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 349.25 170.18 90)
@@ -5162,7 +5162,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
       )
     )
@@ -5209,7 +5209,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 355.6 165.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f8bf3559-5a4d-4e32-895b-d9255c2dfb52)
-    (property "Reference" "#FLG020" (at 355.6 163.195 0)
+    (property "Reference" "#FLG02" (at 355.6 163.195 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 355.6 160.02 0)
@@ -5225,7 +5225,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#FLG020") (unit 1)
+          (reference "#FLG02") (unit 1)
         )
       )
     )
@@ -5234,7 +5234,7 @@
   (symbol (lib_id "ProjectEV:VBUS_ISO") (at 345.44 182.88 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ff3b8e80-6dad-4fee-851a-0503cf68481c)
-    (property "Reference" "#PWR014" (at 341.63 182.88 0)
+    (property "Reference" "#PWR015" (at 341.63 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS_ISO" (at 349.25 182.88 90)
@@ -5250,7 +5250,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )
