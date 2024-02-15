@@ -1,4 +1,4 @@
-22532252727972817
+22533960746858549
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81659,8 +81659,8 @@ Connector_MX150L_19427-0017
 
 
 0
-18
-17
+10
+9
 ProjectEV
 Connector_MX150L_19427-0018
 
@@ -81798,6 +81798,13 @@ ProjectEV
 D_SOD-523_BZX584CxVx-AU
 http://www.diodes.com/datasheets/ap02001.pdf p.144
 Diode SOD523
+0
+2
+2
+ProjectEV
+Fuse_0ABB
+
+
 0
 2
 2
