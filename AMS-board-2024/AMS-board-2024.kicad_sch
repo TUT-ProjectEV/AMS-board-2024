@@ -5690,7 +5690,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 261.62 213.36 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board no) (dnp no) (fields_autoplaced)
     (uuid 858f3f6b-7556-445a-9695-b0213c30f5c7)
     (property "Reference" "H1" (at 265.43 212.09 90)
       (effects (font (size 1.27 1.27)) (justify left))
