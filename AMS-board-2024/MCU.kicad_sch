@@ -7276,7 +7276,7 @@
   (symbol (lib_id "ProjectEV:L_BLM18PG471SN1D") (at 311.15 165.1 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 502c237f-ff5e-47da-9cb6-3e181a1c52d6)
-    (property "Reference" "L27" (at 311.15 160.02 90)
+    (property "Reference" "L20" (at 311.15 160.02 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BLM18PG471SN1D" (at 316.23 162.56 90)
@@ -7293,7 +7293,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "L27") (unit 1)
+          (reference "L20") (unit 1)
         )
       )
     )
@@ -9198,7 +9198,7 @@
   (symbol (lib_id "ProjectEV:L_BLM18PG471SN1D") (at 295.91 177.8 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dedf0fdb-32b8-4765-9299-0fd16e577303)
-    (property "Reference" "L26" (at 295.91 172.72 90)
+    (property "Reference" "L19" (at 295.91 172.72 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BLM18PG471SN1D" (at 295.91 175.26 90)
@@ -9215,7 +9215,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "L26") (unit 1)
+          (reference "L19") (unit 1)
         )
       )
     )

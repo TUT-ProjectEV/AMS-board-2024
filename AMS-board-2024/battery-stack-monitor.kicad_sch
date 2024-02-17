@@ -3601,7 +3601,7 @@
   (symbol (lib_id "ProjectEV:Transformer_YA8916") (at 127 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2b6ea900-7be1-4c6c-a966-5d848dc71650)
-    (property "Reference" "L29" (at 127 36.83 0)
+    (property "Reference" "L22" (at 127 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "YA8916-BLD" (at 127 39.37 0)
@@ -3624,7 +3624,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/2a544a11-bc7a-441e-95e4-66a5a426d897"
-          (reference "L29") (unit 1)
+          (reference "L22") (unit 1)
         )
       )
     )

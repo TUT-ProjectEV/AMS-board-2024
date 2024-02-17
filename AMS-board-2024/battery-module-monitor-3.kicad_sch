@@ -7061,7 +7061,7 @@
   (symbol (lib_id "ProjectEV:L_MH3261") (at 101.6 374.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ca0f6e35-005e-4d7e-b68d-7c72fbe61bb5)
-    (property "Reference" "L20" (at 102.87 373.38 0)
+    (property "Reference" "L13" (at 102.87 373.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MH3261-601Y" (at 102.87 375.92 0)
@@ -7078,7 +7078,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/1e87e362-5c61-4f39-a903-ecfc3a14ee8d"
-          (reference "L20") (unit 1)
+          (reference "L13") (unit 1)
         )
       )
     )
