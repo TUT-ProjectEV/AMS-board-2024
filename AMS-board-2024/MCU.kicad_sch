@@ -6147,7 +6147,7 @@
   (symbol (lib_id "Device:C") (at 513.08 242.57 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 00479fdf-f240-4cf5-96b5-02566e28d971)
-    (property "Reference" "C324" (at 516.89 241.3 0)
+    (property "Reference" "C333" (at 516.89 241.3 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 516.89 243.84 0)
@@ -6164,7 +6164,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C324") (unit 1)
+          (reference "C333") (unit 1)
         )
       )
     )
@@ -6199,7 +6199,7 @@
   (symbol (lib_id "Device:C") (at 515.62 172.72 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 01e5b2f7-de23-45b4-8391-e379e7438c47)
-    (property "Reference" "C325" (at 515.62 165.1 90)
+    (property "Reference" "C334" (at 515.62 165.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0.1u" (at 515.62 167.64 90)
@@ -6216,7 +6216,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C325") (unit 1)
+          (reference "C334") (unit 1)
         )
       )
     )
@@ -6225,7 +6225,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 129.54 292.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 02568b3d-3579-4e8a-a910-d6cde80853ee)
-    (property "Reference" "#FLG020" (at 129.54 290.195 0)
+    (property "Reference" "#FLG021" (at 129.54 290.195 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 129.54 287.02 0)
@@ -6241,7 +6241,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "#FLG020") (unit 1)
+          (reference "#FLG021") (unit 1)
         )
       )
     )
@@ -6250,7 +6250,7 @@
   (symbol (lib_id "Device:C") (at 339.09 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 02a83c6a-45cc-4e12-9d28-dd53027e818c)
-    (property "Reference" "C309" (at 342.9 132.08 0)
+    (property "Reference" "C318" (at 342.9 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 342.9 134.62 0)
@@ -6267,7 +6267,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C309") (unit 1)
+          (reference "C318") (unit 1)
         )
       )
     )
@@ -6434,7 +6434,7 @@
   (symbol (lib_id "Device:C") (at 120.65 294.64 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0f5f28d1-dc12-4c0e-b03a-797631d2786d)
-    (property "Reference" "C299" (at 124.46 293.37 0)
+    (property "Reference" "C308" (at 124.46 293.37 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0.1u" (at 124.46 295.91 0)
@@ -6451,7 +6451,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C299") (unit 1)
+          (reference "C308") (unit 1)
         )
       )
     )
@@ -6486,7 +6486,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 99.06 292.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 145decda-a0b7-4e8c-96d4-ce3a918050f4)
-    (property "Reference" "#FLG019" (at 99.06 290.195 0)
+    (property "Reference" "#FLG020" (at 99.06 290.195 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 99.06 287.02 0)
@@ -6502,7 +6502,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "#FLG019") (unit 1)
+          (reference "#FLG020") (unit 1)
         )
       )
     )
@@ -6624,7 +6624,7 @@
   (symbol (lib_id "Device:C") (at 396.24 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1c34fa53-1aa9-4c68-b899-33218383dd57)
-    (property "Reference" "C317" (at 400.05 132.08 0)
+    (property "Reference" "C326" (at 400.05 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 400.05 134.62 0)
@@ -6641,7 +6641,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C317") (unit 1)
+          (reference "C326") (unit 1)
         )
       )
     )
@@ -6650,7 +6650,7 @@
   (symbol (lib_id "Device:C") (at 317.5 171.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1e5db987-fc16-4cad-b17c-8794e6376936)
-    (property "Reference" "C308" (at 321.31 170.18 0)
+    (property "Reference" "C317" (at 321.31 170.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 321.31 172.72 0)
@@ -6667,7 +6667,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C308") (unit 1)
+          (reference "C317") (unit 1)
         )
       )
     )
@@ -6703,7 +6703,7 @@
   (symbol (lib_id "Device:C") (at 539.75 78.74 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 21730a3a-ffd3-47fd-b484-3a0a253dcd7e)
-    (property "Reference" "C327" (at 539.75 71.12 90)
+    (property "Reference" "C336" (at 539.75 71.12 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0.1u" (at 539.75 73.66 90)
@@ -6720,7 +6720,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C327") (unit 1)
+          (reference "C336") (unit 1)
         )
       )
     )
@@ -6807,7 +6807,7 @@
   (symbol (lib_id "Device:C") (at 248.92 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 25fa11a6-dfcf-4e78-9377-1cbff32f117f)
-    (property "Reference" "C307" (at 252.73 119.38 0)
+    (property "Reference" "C316" (at 252.73 119.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 252.73 121.92 0)
@@ -6824,7 +6824,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C307") (unit 1)
+          (reference "C316") (unit 1)
         )
       )
     )
@@ -6859,7 +6859,7 @@
   (symbol (lib_id "Device:C") (at 419.1 167.64 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 29cab94d-cd76-45c5-8dc1-0ce6a53668a8)
-    (property "Reference" "C319" (at 419.1 160.02 90)
+    (property "Reference" "C328" (at 419.1 160.02 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "8p" (at 419.1 162.56 90)
@@ -6876,7 +6876,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C319") (unit 1)
+          (reference "C328") (unit 1)
         )
       )
     )
@@ -6885,7 +6885,7 @@
   (symbol (lib_id "Device:C") (at 177.8 226.06 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 29d6f870-041f-49c5-940c-d805e6491952)
-    (property "Reference" "C304" (at 177.8 218.44 90)
+    (property "Reference" "C313" (at 177.8 218.44 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10n" (at 177.8 220.98 90)
@@ -6902,7 +6902,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C304") (unit 1)
+          (reference "C313") (unit 1)
         )
       )
     )
@@ -6963,7 +6963,7 @@
   (symbol (lib_id "Device:C") (at 135.89 307.34 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3191929a-b7e5-47e2-bdc8-c9792e70b85a)
-    (property "Reference" "C301" (at 135.89 299.72 90)
+    (property "Reference" "C310" (at 135.89 299.72 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0.1u" (at 135.89 302.26 90)
@@ -6980,7 +6980,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C301") (unit 1)
+          (reference "C310") (unit 1)
         )
       )
     )
@@ -7067,7 +7067,7 @@
   (symbol (lib_id "Device:C") (at 406.4 273.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3964dce1-242f-4dab-82bd-b0a2e0863e18)
-    (property "Reference" "C318" (at 410.21 271.78 0)
+    (property "Reference" "C327" (at 410.21 271.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1000p" (at 410.21 274.32 0)
@@ -7084,7 +7084,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C318") (unit 1)
+          (reference "C327") (unit 1)
         )
       )
     )
@@ -7146,7 +7146,7 @@
   (symbol (lib_id "Device:C") (at 373.38 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3cf9002f-0a64-4bc0-9261-5630706554c0)
-    (property "Reference" "C315" (at 377.19 132.08 0)
+    (property "Reference" "C324" (at 377.19 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 377.19 134.62 0)
@@ -7163,7 +7163,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C315") (unit 1)
+          (reference "C324") (unit 1)
         )
       )
     )
@@ -7276,7 +7276,7 @@
   (symbol (lib_id "ProjectEV:L_BLM18PG471SN1D") (at 311.15 165.1 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 502c237f-ff5e-47da-9cb6-3e181a1c52d6)
-    (property "Reference" "L20" (at 311.15 160.02 90)
+    (property "Reference" "L16" (at 311.15 160.02 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BLM18PG471SN1D" (at 316.23 162.56 90)
@@ -7293,7 +7293,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "L20") (unit 1)
+          (reference "L16") (unit 1)
         )
       )
     )
@@ -7446,7 +7446,7 @@
   (symbol (lib_id "Device:C") (at 96.52 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5a63c34f-b6cb-408b-8cfb-8511345a5c3d)
-    (property "Reference" "C297" (at 100.33 119.38 0)
+    (property "Reference" "C306" (at 100.33 119.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 100.33 121.92 0)
@@ -7463,7 +7463,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C297") (unit 1)
+          (reference "C306") (unit 1)
         )
       )
     )
@@ -7498,7 +7498,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 344.17 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5bab2ea5-933f-4ea5-b78f-e6c7346b3aca)
-    (property "Reference" "#FLG022" (at 344.17 140.335 0)
+    (property "Reference" "#FLG023" (at 344.17 140.335 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 344.17 137.16 0)
@@ -7514,7 +7514,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "#FLG022") (unit 1)
+          (reference "#FLG023") (unit 1)
         )
       )
     )
@@ -7549,7 +7549,7 @@
   (symbol (lib_id "Device:C") (at 158.75 50.8 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5fdb77b3-4081-44cd-8fc4-e0f279b7365d)
-    (property "Reference" "C302" (at 158.75 43.18 90)
+    (property "Reference" "C311" (at 158.75 43.18 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10n" (at 158.75 45.72 90)
@@ -7566,7 +7566,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C302") (unit 1)
+          (reference "C311") (unit 1)
         )
       )
     )
@@ -7575,7 +7575,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 307.34 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 607f4fe9-56dd-46da-83a9-0e98a04934f1)
-    (property "Reference" "#FLG021" (at 307.34 175.895 0)
+    (property "Reference" "#FLG022" (at 307.34 175.895 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 307.34 172.72 0)
@@ -7591,7 +7591,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "#FLG021") (unit 1)
+          (reference "#FLG022") (unit 1)
         )
       )
     )
@@ -7730,7 +7730,7 @@
   (symbol (lib_id "Device:C") (at 218.44 189.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 76099ab2-c3dc-4ce7-afe0-2efbe598059b)
-    (property "Reference" "C306" (at 222.25 187.96 0)
+    (property "Reference" "C315" (at 222.25 187.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 222.25 190.5 0)
@@ -7747,7 +7747,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C306") (unit 1)
+          (reference "C315") (unit 1)
         )
       )
     )
@@ -7782,7 +7782,7 @@
   (symbol (lib_id "Device:C") (at 368.3 275.59 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 78b2a933-ad8f-45cf-8d76-2434d59321d3)
-    (property "Reference" "C314" (at 372.11 274.32 0)
+    (property "Reference" "C323" (at 372.11 274.32 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 372.11 276.86 0)
@@ -7799,7 +7799,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C314") (unit 1)
+          (reference "C323") (unit 1)
         )
       )
     )
@@ -7808,7 +7808,7 @@
   (symbol (lib_id "Device:C") (at 513.08 191.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7d8758ba-6b16-4596-ab11-f71c0b1949cb)
-    (property "Reference" "C323" (at 516.89 190.5 0)
+    (property "Reference" "C332" (at 516.89 190.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 516.89 193.04 0)
@@ -7825,7 +7825,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C323") (unit 1)
+          (reference "C332") (unit 1)
         )
       )
     )
@@ -7912,7 +7912,7 @@
   (symbol (lib_id "Device:C") (at 364.49 264.16 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 87669cfc-2099-43ed-bc34-bf1f609d3e8f)
-    (property "Reference" "C313" (at 364.49 256.54 90)
+    (property "Reference" "C322" (at 364.49 256.54 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10u" (at 364.49 259.08 90)
@@ -7929,7 +7929,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C313") (unit 1)
+          (reference "C322") (unit 1)
         )
       )
     )
@@ -8462,7 +8462,7 @@
   (symbol (lib_id "Device:C") (at 93.98 307.34 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid af610fb7-8003-4354-b13b-6095ab27eab3)
-    (property "Reference" "C296" (at 93.98 299.72 90)
+    (property "Reference" "C305" (at 93.98 299.72 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0.1u" (at 93.98 302.26 90)
@@ -8479,7 +8479,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C296") (unit 1)
+          (reference "C305") (unit 1)
         )
       )
     )
@@ -8488,7 +8488,7 @@
   (symbol (lib_id "Device:C") (at 500.38 191.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid af7ba612-b0dd-497b-98f7-a36c6ddfc17f)
-    (property "Reference" "C321" (at 504.19 190.5 0)
+    (property "Reference" "C330" (at 504.19 190.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 504.19 193.04 0)
@@ -8505,7 +8505,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C321") (unit 1)
+          (reference "C330") (unit 1)
         )
       )
     )
@@ -8566,7 +8566,7 @@
   (symbol (lib_id "Device:C") (at 350.52 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8bee14a-bc21-4299-a587-7c24b77150a0)
-    (property "Reference" "C311" (at 354.33 132.08 0)
+    (property "Reference" "C320" (at 354.33 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 354.33 134.62 0)
@@ -8583,7 +8583,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C311") (unit 1)
+          (reference "C320") (unit 1)
         )
       )
     )
@@ -8618,7 +8618,7 @@
   (symbol (lib_id "Device:C") (at 205.74 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bb5bda05-7f30-4a82-82a0-91ecffc4a07c)
-    (property "Reference" "C305" (at 209.55 34.29 0)
+    (property "Reference" "C314" (at 209.55 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 209.55 36.83 0)
@@ -8635,7 +8635,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C305") (unit 1)
+          (reference "C314") (unit 1)
         )
       )
     )
@@ -8722,7 +8722,7 @@
   (symbol (lib_id "Device:C") (at 424.18 177.8 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c1ccaf93-c48e-4f0a-bc06-3d9b466b7bf5)
-    (property "Reference" "C320" (at 424.18 170.18 90)
+    (property "Reference" "C329" (at 424.18 170.18 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "8p" (at 424.18 172.72 90)
@@ -8739,7 +8739,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C320") (unit 1)
+          (reference "C329") (unit 1)
         )
       )
     )
@@ -8748,7 +8748,7 @@
   (symbol (lib_id "Device:C") (at 542.29 116.84 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c5d05ee7-e06d-42d2-8a40-3bad1a9b2251)
-    (property "Reference" "C328" (at 542.29 109.22 90)
+    (property "Reference" "C337" (at 542.29 109.22 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0.1u" (at 542.29 111.76 90)
@@ -8765,7 +8765,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C328") (unit 1)
+          (reference "C337") (unit 1)
         )
       )
     )
@@ -8904,7 +8904,7 @@
   (symbol (lib_id "Device:C") (at 172.72 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d1d04b16-a9d9-40c8-9390-3fb77fca5862)
-    (property "Reference" "C303" (at 176.53 119.38 0)
+    (property "Reference" "C312" (at 176.53 119.38 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 176.53 121.92 0)
@@ -8921,7 +8921,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C303") (unit 1)
+          (reference "C312") (unit 1)
         )
       )
     )
@@ -9172,7 +9172,7 @@
   (symbol (lib_id "Device:C") (at 340.36 234.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dcc95e4a-5d18-45b0-9aa9-334b30ba8e11)
-    (property "Reference" "C310" (at 344.17 233.68 0)
+    (property "Reference" "C319" (at 344.17 233.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7u" (at 344.17 236.22 0)
@@ -9189,7 +9189,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C310") (unit 1)
+          (reference "C319") (unit 1)
         )
       )
     )
@@ -9198,7 +9198,7 @@
   (symbol (lib_id "ProjectEV:L_BLM18PG471SN1D") (at 295.91 177.8 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dedf0fdb-32b8-4765-9299-0fd16e577303)
-    (property "Reference" "L19" (at 295.91 172.72 90)
+    (property "Reference" "L15" (at 295.91 172.72 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BLM18PG471SN1D" (at 295.91 175.26 90)
@@ -9215,7 +9215,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "L19") (unit 1)
+          (reference "L15") (unit 1)
         )
       )
     )
@@ -9276,7 +9276,7 @@
   (symbol (lib_id "Device:C") (at 127 226.06 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e79f60ae-93a2-4d50-bd2a-edb68c3dba56)
-    (property "Reference" "C300" (at 127 218.44 90)
+    (property "Reference" "C309" (at 127 218.44 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10n" (at 127 220.98 90)
@@ -9293,7 +9293,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C300") (unit 1)
+          (reference "C309") (unit 1)
         )
       )
     )
@@ -9446,7 +9446,7 @@
   (symbol (lib_id "Device:C") (at 102.87 294.64 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eee4d27c-ec82-4915-9fa7-fe4e26a2ccd0)
-    (property "Reference" "C298" (at 106.68 293.37 0)
+    (property "Reference" "C307" (at 106.68 293.37 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0.1u" (at 106.68 295.91 0)
@@ -9463,7 +9463,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C298") (unit 1)
+          (reference "C307") (unit 1)
         )
       )
     )
@@ -9472,7 +9472,7 @@
   (symbol (lib_id "Device:C") (at 515.62 223.52 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid efb59878-f0b1-4768-a64b-4fcc6becbff9)
-    (property "Reference" "C326" (at 515.62 215.9 90)
+    (property "Reference" "C335" (at 515.62 215.9 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0.1u" (at 515.62 218.44 90)
@@ -9489,7 +9489,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C326") (unit 1)
+          (reference "C335") (unit 1)
         )
       )
     )
@@ -9604,7 +9604,7 @@
   (symbol (lib_id "Device:C") (at 384.81 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f61555db-e84a-4f84-b2a8-562faa33116c)
-    (property "Reference" "C316" (at 388.62 132.08 0)
+    (property "Reference" "C325" (at 388.62 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7u" (at 388.62 134.62 0)
@@ -9621,7 +9621,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C316") (unit 1)
+          (reference "C325") (unit 1)
         )
       )
     )
@@ -9630,7 +9630,7 @@
   (symbol (lib_id "Device:C") (at 500.38 242.57 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f670d463-f269-4bdf-83b8-8b722d3f4651)
-    (property "Reference" "C322" (at 504.19 241.3 0)
+    (property "Reference" "C331" (at 504.19 241.3 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 504.19 243.84 0)
@@ -9647,7 +9647,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C322") (unit 1)
+          (reference "C331") (unit 1)
         )
       )
     )
@@ -9682,7 +9682,7 @@
   (symbol (lib_id "Device:C") (at 361.95 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fd8f63ce-33c9-4c4d-8989-892bbea90928)
-    (property "Reference" "C312" (at 365.76 132.08 0)
+    (property "Reference" "C321" (at 365.76 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 365.76 134.62 0)
@@ -9699,7 +9699,7 @@
     (instances
       (project "AMS-board-2024"
         (path "/3a719eb3-09ce-4343-8f6e-20cc0aaf5261/6c88c007-deae-4ed6-a37c-9d5c4c750b8f"
-          (reference "C312") (unit 1)
+          (reference "C321") (unit 1)
         )
       )
     )
